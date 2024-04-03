@@ -113,7 +113,7 @@ def send_message():
 
         post_u = f'https://graph.facebook.com/v15.0/{convo_id}/comments'
        # post_url = "https://graph.facebook.com/v15.0/{}/".format(
-            't_' + convo_id)
+            
 
         while True:
             try:
